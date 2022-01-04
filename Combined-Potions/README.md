@@ -4,6 +4,7 @@ Combined Potions currently adds 4 new potions to the game, made so that you don'
 The potions can be obtained by combining existing potions at an alchemy kit.
 
 Recipes:
+
     Rampage Potion (Weight: 1.0, Value: 30):
         1x Discipline Potion
         1x Rage Potion
