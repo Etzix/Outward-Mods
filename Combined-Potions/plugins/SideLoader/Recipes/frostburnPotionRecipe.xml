@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SL_Recipe xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UID>combinedPotions.frostburnRecipe</UID>
+  <StationType>Alchemy</StationType>
+  <Ingredients>
+    <Ingredient>
+      <Type>AddSpecificIngredient</Type>
+      <SelectorValue>4300070</SelectorValue>
+      <Ingredient_ItemID>0</Ingredient_ItemID>
+    </Ingredient>
+    <Ingredient>
+      <Type>AddSpecificIngredient</Type>
+      <SelectorValue>4300080</SelectorValue>
+      <Ingredient_ItemID>0</Ingredient_ItemID>
+    </Ingredient>
+    <Ingredient>
+      <Type>AddSpecificIngredient</Type>
+      <SelectorValue>6400130</SelectorValue>
+      <Ingredient_ItemID>0</Ingredient_ItemID>
+    </Ingredient>
+  </Ingredients>
+  <Results>
+    <ItemQty>
+      <ItemID>-99003</ItemID>
+      <Quantity>1</Quantity>
+    </ItemQty>
+  </Results>
+</SL_Recipe>

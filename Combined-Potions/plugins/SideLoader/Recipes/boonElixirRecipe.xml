@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SL_Recipe xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UID>combinedPotions.boonRecipe</UID>
+  <StationType>Alchemy</StationType>
+  <Ingredients>
+    <Ingredient>
+      <Type>AddSpecificIngredient</Type>
+      <SelectorValue>-99001</SelectorValue>
+      <Ingredient_ItemID>0</Ingredient_ItemID>
+    </Ingredient>
+    <Ingredient>
+      <Type>AddSpecificIngredient</Type>
+      <SelectorValue>-99002</SelectorValue>
+      <Ingredient_ItemID>0</Ingredient_ItemID>
+    </Ingredient>
+    <Ingredient>
+      <Type>AddSpecificIngredient</Type>
+      <SelectorValue>-99003</SelectorValue>
+      <Ingredient_ItemID>0</Ingredient_ItemID>
+    </Ingredient>
+    <Ingredient>
+      <Type>AddSpecificIngredient</Type>
+      <SelectorValue>6600040</SelectorValue>
+      <Ingredient_ItemID>0</Ingredient_ItemID>
+    </Ingredient>
+  </Ingredients>
+  <Results>
+    <ItemQty>
+      <ItemID>-99005</ItemID>
+      <Quantity>1</Quantity>
+    </ItemQty>
+  </Results>
+</SL_Recipe>

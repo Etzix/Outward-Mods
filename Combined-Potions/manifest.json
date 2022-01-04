@@ -1,0 +1,10 @@
+{
+    "name": "Combined_Potions",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Etzix/Outward-Mods",
+    "description": "Adds new potions with combined effects of existing ones.",
+    "dependencies": [
+		"sinai-dev-SideLoader-3.5.6",
+        "BepInEx-BepInExPack_Outward-5.4.18"
+    ]
+}
