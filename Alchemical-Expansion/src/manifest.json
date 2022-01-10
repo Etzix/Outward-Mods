@@ -1,0 +1,10 @@
+{
+    "name": "Alchemical_Expansion",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Etzix/Outward-Mods",
+    "description": "Adds 15 brand new potions to the game.",
+    "dependencies": [
+		"sinai-dev-SideLoader-3.5.6",
+        "BepInEx-BepInExPack_Outward-5.4.18"
+    ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SL_DropTableAddition xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <IdentifierName>alchemicalExpansion-recipeSource</IdentifierName>
+  <SelectorTargets>
+    <string>VM81kCzv2kaK7feq8DyncA</string>
+    <string>OjRsqb0O4E2ACtSIFLgTPg</string>
+    <string>3qimTq1wT0ykxJ45zP4EnQ</string>
+    <string>YMvgNzX7JEG6PnQdK1Z-Dg</string>
+    <string>HS2mp9CeskCtxhiPQbBmXA</string>
+  </SelectorTargets>
+  <DropTableUIDsToAdd>
+    <string>alchemicalExpansion-recipeDT</string>
+  </DropTableUIDsToAdd>
+</SL_DropTableAddition>
